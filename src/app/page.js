@@ -18,14 +18,14 @@ import Welcome from "@/components/Common/Welcome";
 import WhoWeAre from "@/components/Common/WhoWeAre";
 import Work from "@/components/Common/Work";
 import Navbar from "@/components/Layout/Navbar";
-import MainBannerOne from "@/components/PageBanners/MainBannerOne";
+import MainBannerThree from "@/components/PageBanners/MainBannerThree";
 
-export default function Home() {
+export default function Page() {
   return (
     <>
       <Navbar />
 
-      <MainBannerOne />
+      <MainBannerThree />
 
       <Welcome />
 
@@ -37,29 +37,29 @@ export default function Home() {
 
       <Cto />
 
-      <Skill />
+      {/* <Skill /> */}
 
-      <Funfact />
+      {/* <Funfact /> */}
 
-      <Team />
+      {/* <Team /> */}
 
       <HowWeWork />
 
       <Services />
 
-      <Work />
+      {/* <Work /> */}
 
-      <Price />
+      {/* <Price /> */}
 
-      <Faq />
+      {/* <Faq /> */}
 
-      <Testimonial />
+      {/* <Testimonial />
 
       <Blog />
 
       <Partner />
 
-      <Subscribe />
+      <Subscribe /> */}
 
       <Contact />
 
