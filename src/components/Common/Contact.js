@@ -83,8 +83,7 @@ const Contact = () => {
               <div className="contact-info">
                 <ul>
                   <li>
-                    <i className="fa fa-map-marker"></i> Exercisplan 4, 111 49
-                    Stockholm, Sweden
+                    <i className="fa fa-map-marker"></i> ADDRESS HERE
                   </li>
                   <li>
                     <i className="fa fa-envelope"></i>
@@ -92,12 +91,12 @@ const Contact = () => {
                   </li>
                   <li>
                     <i className="fa fa-phone"></i>
-                    <a href="tel:124412-2445515">(+124)412-2445515</a>
+                    <a href="tel:124412-2445515">PHONE NUMBER HERE</a>
                   </li>
-                  {/* <li>
+                  <li>
                     <i className="fa fa-fax"></i>
-                    <a href="tel:617-241-60055">   </a>
-                  </li> */}
+                    <a href="tel:617-241-60055">FAX NUMBER HERE?</a>
+                  </li>
                 </ul>
               </div>
             </div>
