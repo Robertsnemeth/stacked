@@ -665,7 +665,7 @@ About Area CSS
   margin-bottom: 30px;
 }
 .about-addax ul li {
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   font-weight: 300;
   color: #666666;
 }
@@ -678,6 +678,11 @@ About Area CSS
 }
 .about-addax .pull-left {
   margin-right: 45px;
+}
+
+.simplicity-span {
+  color: #ff2c57;
+  font-size: 20px;
 }
 
 /*
@@ -698,6 +703,10 @@ Who We Are Area CSS
   background: #ffffff;
   padding: 50px 30px;
   transition: all 0.5s ease-in-out 0s;
+  
+  @media only screen and (min-width: 992px) {
+    height: 100%;
+  }
 }
 .single-who-we-are:hover {
   background: #ff2c57;
@@ -720,6 +729,7 @@ Who We Are Area CSS
 }
 .single-who-we-are p {
   transition: 0.4s;
+  font-size: 15px;
 }
 .single-who-we-are:hover p {
   color: #ffffff;
@@ -758,6 +768,7 @@ Strategy Area CSS
 }
 .strategy-area .row div {
   position: relative;
+  display: grid;
 }
 
 .about-strategy {
@@ -784,6 +795,11 @@ Strategy Area CSS
 .about-strategy ul li i {
   color: #ff2c57;
   margin-right: 5px;
+}
+
+.who-we-are-span {
+  color: #ff2c57;
+  font-size: 20px;
 }
 
 /*
@@ -1087,6 +1103,10 @@ How We Work CSS
   background-size: contain;
   background-repeat: repeat;
 }
+.how-we-work-span {
+  color: #ff2c57;
+  font-size: 20px;
+}
 
 .single-how-work {
   box-shadow: 0 0 30px 0 rgba(67, 67, 67, 0.15);
@@ -1120,6 +1140,10 @@ Services Area CSS
 .services-area .single-box {
   margin-bottom: 30px;
 }
+.services-span {
+  color: #ff2c57;
+  font-size: 20px;
+}
 
 .single-services {
   margin-bottom: 30px;
@@ -1127,6 +1151,9 @@ Services Area CSS
   text-align: center;
   position: relative;
   transition: 0.4s;
+  @media only screen and (min-width: 992px) {
+    height: 100%;
+  }
 }
 .single-services:hover {
   box-shadow: unset;
@@ -1191,6 +1218,11 @@ Services Area CSS
   font-size: 22px;
   font-weight: 500;
   margin-bottom: 18px;
+}
+.single-services .services-content p {
+  font-size: 14px;
+  font-weight: 300;
+  color: #666666;
 }
 
 /*

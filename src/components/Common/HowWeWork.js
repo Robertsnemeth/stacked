@@ -21,8 +21,8 @@ const HowWeWork = () => {
               Why <span>Stacked</span>
             </h2>
             <p>
-            <span>
-              End-to-End Marketing, Tailored for Results
+            <span className="how-we-work-span">
+              End-to-End Marketing, Tailored for Results.
             </span>
             <br/>
             <span>
@@ -51,10 +51,10 @@ const HowWeWork = () => {
             >
               <div className="single-how-work">
                 <h3>01.</h3>
-                <h4>Planing</h4>
+                <h4>Planning</h4>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut.
+                Our meticulous planning phase ensures every detail is accounted for, 
+                setting a solid foundation for success.
                 </p>
               </div>
             </div>
@@ -70,8 +70,8 @@ const HowWeWork = () => {
                 <h3>02.</h3>
                 <h4>Designing</h4>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut.
+                Our design process brings your vision to life with innovative designs. 
+                We focus on aesthetics, functionality, and user experiences.
                 </p>
               </div>
             </div>
@@ -87,8 +87,8 @@ const HowWeWork = () => {
                 <h3>03.</h3>
                 <h4>Product Launch</h4>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut.
+                We execute a flawless product launch, ensuring your 
+                product reaches the market with maximum impact.
                 </p>
               </div>
             </div>

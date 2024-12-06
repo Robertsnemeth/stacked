@@ -16,7 +16,7 @@ const Cto = () => {
               <div className="section-title mb-0">
                 <h4>Our M.O.</h4>
 
-                <h2>Coummunicate How You Wish</h2>
+                <h2>Communicate How You Wish</h2>
 
                 <p>
                 At Stacked, we believe in clear, honest communication - on your time, whatever line you want. 

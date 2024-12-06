@@ -36,7 +36,7 @@ const Strategy = () => {
                     Our <span>Approach</span>
                   </h2>
                   <p>
-                    <span>Simplicity.</span>
+                    <span className="simplicity-span">Simplicity.</span>
                     <br/>
                     <span>
                       We help make an overwhelming marketing landscape simple.
@@ -71,8 +71,8 @@ const Strategy = () => {
                   </li>
                 </ul>
 
-                <Link href="#" className="btn btn-primary">
-                  Read More
+                <Link href="#contact" className="btn btn-primary w-25">
+                  Contact
                 </Link>
               </div>
             </div>

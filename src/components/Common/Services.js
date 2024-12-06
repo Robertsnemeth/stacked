@@ -19,7 +19,7 @@ const Services = () => {
               Our <span>Services</span>
             </h2>
             <p>
-            <span>Your Success is Our Mission.</span>
+            <span className="services-span">Your Success is Our Mission.</span>
             <br />
             At Stacked, we’re not just a vendor; we’re your marketing partner. 
             We believe in building enduring relationships, offering flexible, on-demand solutions to meet your evolving needs. 
@@ -31,7 +31,7 @@ const Services = () => {
 
           <div className="row justify-content-center">
             <div
-              className="col-lg-4 col-md-6"
+              className="col-lg"
               data-aos="fade-up"
               data-aos-delay="100"
               data-aos-once="true"
@@ -64,7 +64,7 @@ const Services = () => {
             </div>
 
             <div
-              className="col-lg-4 col-md-6"
+              className="col-lg"
               data-aos="fade-up"
               data-aos-delay="200"
               data-aos-once="true"
@@ -97,7 +97,7 @@ const Services = () => {
             </div>
 
             <div
-              className="col-lg-4 col-md-6"
+              className="col-lg"
               data-aos="fade-up"
               data-aos-delay="300"
               data-aos-once="true"
@@ -129,7 +129,7 @@ const Services = () => {
             </div>
 
             <div
-              className="col-lg-4 col-md-6"
+              className="col-lg"
               data-aos="fade-up"
               data-aos-delay="400"
               data-aos-once="true"

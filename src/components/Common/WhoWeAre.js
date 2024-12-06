@@ -18,7 +18,7 @@ const WhoWeAre = () => {
               Mission & <span>Vision</span>
             </h2>
             <p>
-              <span>Our Mission: </span> 
+              <span className="who-we-are-span">Our Mission: </span> 
               <br />
               To create the best possible experiences for our clients through innovative data analysis, 
               proven platform solutions, and unmatched partnership services. We help businesses increase reach, 
@@ -26,7 +26,7 @@ const WhoWeAre = () => {
             </p>
             <br />
             <p>
-              <span>Our Vision: </span>
+              <span className="who-we-are-span">Our Vision: </span>
               <br />
               To be the most valued marketing partner for every business or brand we touch. 
               Our commitment is to help our clients succeed by delivering impactful marketing solutions that exceed expectations.
@@ -36,7 +36,7 @@ const WhoWeAre = () => {
           <div className="row">
 
             <div
-              className="col-lg-4 col-md-6"
+              className="col-lg"
               data-aos="fade-up"
               data-aos-delay="200"
               data-aos-once="true"
@@ -54,7 +54,7 @@ const WhoWeAre = () => {
             </div>
 
             <div
-              className="col-lg-4 col-md-6"
+              className="col-lg"
               data-aos="fade-up"
               data-aos-delay="300"
               data-aos-once="true"
@@ -72,7 +72,7 @@ const WhoWeAre = () => {
             </div>
 
             <div
-              className="col-lg-4 col-md-6"
+              className="col-lg"
               data-aos="fade-up"
               data-aos-delay="400"
               data-aos-once="true"
@@ -90,7 +90,7 @@ const WhoWeAre = () => {
             </div>
 
             <div
-              className="col-lg-4 col-md-6"
+              className="col-lg"
               data-aos="fade-up"
               data-aos-delay="100"
               data-aos-once="true"
