@@ -54,7 +54,7 @@ const HowWeWork = () => {
                 <h4>Building Relationships, Not Just Campaigns</h4>
                 <p>
                 We believe in fostering long-term partnerships built on trust, 
-                transparency, and mutual respect. We're in it for the long haul, 
+                transparency, and mutual respect. We are in it for the long haul, 
                 working with you to build sustainable success.
                 </p>
               </div>
@@ -72,7 +72,7 @@ const HowWeWork = () => {
                 <h4>Nimble and Innovative</h4>
                 <p>
                 Our size allows us to be more innovative , experimental, and cost effective. 
-                We're not bound by rigid processes, so we can explore new ideas and approaches 
+                We are not bound by rigid processes, so we can explore new ideas and approaches 
                 to find the best solutions for your business.
                 </p>
               </div>
@@ -89,7 +89,7 @@ const HowWeWork = () => {
                 <h3>03.</h3>
                 <h4>Quality Over Quantity, Every Time</h4>
                 <p>
-                We prioritize quality over speed. We'll never compromise on the quality of our work to meet a rushed deadline.
+                We prioritize quality over speed. We will never compromise on the quality of our work to meet a rushed deadline.
                 We believe in delivering exceptional results, even if it takes a little extra time.
                 </p>
               </div>
