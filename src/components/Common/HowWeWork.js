@@ -51,10 +51,11 @@ const HowWeWork = () => {
             >
               <div className="single-how-work">
                 <h3>01.</h3>
-                <h4>Planning</h4>
+                <h4>Building Relationships, Not Just Campaigns</h4>
                 <p>
-                Our meticulous planning phase ensures every detail is accounted for, 
-                setting a solid foundation for success.
+                We believe in fostering long-term partnerships built on trust, 
+                transparency, and mutual respect. We're in it for the long haul, 
+                working with you to build sustainable success.
                 </p>
               </div>
             </div>
@@ -68,10 +69,11 @@ const HowWeWork = () => {
             >
               <div className="single-how-work">
                 <h3>02.</h3>
-                <h4>Designing</h4>
+                <h4>Nimble and Innovative</h4>
                 <p>
-                Our design process brings your vision to life with innovative designs. 
-                We focus on aesthetics, functionality, and user experiences.
+                Our size allows us to be more innovative , experimental, and cost effective. 
+                We're not bound by rigid processes, so we can explore new ideas and approaches 
+                to find the best solutions for your business.
                 </p>
               </div>
             </div>
@@ -85,10 +87,10 @@ const HowWeWork = () => {
             >
               <div className="single-how-work">
                 <h3>03.</h3>
-                <h4>Product Launch</h4>
+                <h4>Quality Over Quantity, Every Time</h4>
                 <p>
-                We execute a flawless product launch, ensuring your 
-                product reaches the market with maximum impact.
+                We prioritize quality over speed. We'll never compromise on the quality of our work to meet a rushed deadline.
+                We believe in delivering exceptional results, even if it takes a little extra time.
                 </p>
               </div>
             </div>

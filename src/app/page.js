@@ -27,7 +27,7 @@ export default function Page() {
 
       <MainBannerThree />
 
-      <Welcome />
+      {/* <Welcome /> */}
 
       <About />
 

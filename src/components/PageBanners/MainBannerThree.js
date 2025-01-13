@@ -34,7 +34,7 @@ const MainBannerThree = () => {
                       data-aos-once="true"
                       data-aos-duration="1000"
                     >
-                      Accelerated Marketing Tailored to Your Needs.
+                      Oh Hello There!
                     </h4>
 
                     <h1
@@ -68,7 +68,7 @@ const MainBannerThree = () => {
                       data-aos-duration="1000"
                     >
                       <Link href="#welcome" className="btn btn-primary">
-                        Get Started
+                        Let&apos;s Meet
                       </Link>
                       {/* <Link href="#work" className="btn btn-primary view-work">
                         View Work

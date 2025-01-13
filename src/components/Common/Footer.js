@@ -2,6 +2,8 @@
 
 import React from "react";
 import Link from "next/link";
+import Image from "next/image";
+import Logo from '../../../public/images/logos/STACKED-MG-logo-1c-WHITE_FINAL_For-Web.png'
 
 const Footer = () => {
   return (
@@ -12,11 +14,11 @@ const Footer = () => {
             <div className="col-lg-12 col-md-12">
               <h4>
                 <Link href="/">
-                  <span>S</span>tacked
+                  <Image src={Logo} alt="logo" width={90} height={30} />
                 </Link>
               </h4>
 
-              <ul>
+              {/* <ul>
                 <li>
                   <Link
                     href="https://www.facebook.com/"
@@ -48,7 +50,7 @@ const Footer = () => {
                     target="_blank"
                   ></Link>
                 </li>
-              </ul>
+              </ul> */}
 
               <p>
                 © Stacked Marketing Group. All Rights Reserved 2024.

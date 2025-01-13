@@ -52,22 +52,22 @@ const Strategy = () => {
 
                 <ul>
                   <li>
-                    <i className="fa fa-check"></i>Creative Design
-                  </li>
-                  {/* <li>
-                    <i className="fa fa-check"></i>Retina Ready
-                  </li> */}
-                  <li>
-                    <i className="fa fa-check"></i>Responsive Design
+                    <i className="fa fa-check"></i>Strategic Planning
                   </li>
                   <li>
-                    <i className="fa fa-check"></i>Modern Design
+                    <i className="fa fa-check"></i>Digital Marketing
                   </li>
                   <li>
-                    <i className="fa fa-check"></i>Awesome Design
+                    <i className="fa fa-check"></i>Branding
                   </li>
                   <li>
-                    <i className="fa fa-check"></i>Digital Marketing & Branding
+                    <i className="fa fa-check"></i>Creative Resources
+                  </li>
+                  <li>
+                    <i className="fa fa-check"></i>Cost Effective
+                  </li>
+                  <li>
+                    <i className="fa fa-check"></i>Execution & Optimization
                   </li>
                 </ul>
 

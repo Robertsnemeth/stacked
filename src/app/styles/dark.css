@@ -30,7 +30,8 @@
   color: #fff;
 }
 .dark .about-area {
-  background: #000;
+  background: #222222;
+  background-image: none !important;
 }
 .dark .about-addax ul li {
   color: #ddd;

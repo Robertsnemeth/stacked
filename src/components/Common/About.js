@@ -21,7 +21,7 @@ const About = () => {
       <section
         id="about"
         className="about-area ptb-80 bg-f6f6f6"
-        style={{ backgroundImage: `url(/images/patt.png)` }}
+        style={{ backgroundImage: `url(/images/dott.jpg)` }}
       >
         <div className="container">
           <div

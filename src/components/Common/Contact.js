@@ -70,8 +70,8 @@ const Contact = () => {
             </p>
           </div>
 
-          <div className="row">
-            <div className="col-lg-6 col-md-12">
+          <div className="d-flex justify-content-center">
+            {/* <div className="col-lg-6 col-md-12">
               <iframe
                 title="Google Map"
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d699.1289800297188!2d18.077942675805485!3d59.32663213203372!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465f9d5641a77669%3A0xe02744b36aab9f53!2sExercisplan%204%2C%20111%2049%20Stockholm%2C%20Sweden!5e0!3m2!1sen!2sbd!4v1635073543164!5m2!1sen!2sbd"
@@ -99,7 +99,7 @@ const Contact = () => {
                   </li>
                 </ul>
               </div>
-            </div>
+            </div> */}
 
             <div className="col-lg-6 col-md-12">
               <div className="contact-form">
