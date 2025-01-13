@@ -3,7 +3,7 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
-import Logo from '../../../public/images/logos/STACKED-MG-logo-1c-WHITE_FINAL_For-Web.png'
+import Logo from '../../../public/images/logos/STACKED-MG-logo-1c-WHITE_FINAL_For-Web.PNG'
 
 const Footer = () => {
   return (

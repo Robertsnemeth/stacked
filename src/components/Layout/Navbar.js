@@ -4,7 +4,7 @@ import React, { useState, useEffect } from "react";
 import Link from "next/link";
 import AnchorLink from "react-anchor-link-smooth-scroll"; 
 import Image from "next/image";
-import Logo from '../../../public/images/logos/STACKED-logo-1c-PINK_FINAL_For-Web.png'
+import Logo from '../../../public/images/logos/STACKED-logo-1c-PINK_FINAL_For-Web.PNG'
 
 const Navbar = () => {
   const [collapsed, setCollapsed] = useState(true); 
