@@ -35,7 +35,7 @@ const HowWeWork = () => {
             <span>
               Our unique position as a hybrid marketing organization means we can act as an all-in-one agency without
               the hefty price tag. Whether you need us for a single project or an ongoing partnership, 
-              we’re here to make marketing easier and more effective, saving your budget while delivering maximum impact.
+              we&apos;re here to make marketing easier and more effective, saving your budget while delivering maximum impact.
             </span>
 
             </p>
