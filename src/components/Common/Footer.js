@@ -13,7 +13,7 @@ const Footer = () => {
             <div className="col-lg-12 col-md-12">
               <h4>
                 <Link href="/">
-                  <Image src='images/STACKED-MG-logo-1c-WHITE_FINAL_For-Web.png' alt="logo" width={90} height={30} />
+                  <Image src='images/STACKED-MG-logo-1c-WHITE_FINAL_For-Web.png' alt="logo" width={90} height={30} unoptimized/>
                 </Link>
               </h4>
 
