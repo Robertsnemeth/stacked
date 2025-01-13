@@ -3,7 +3,6 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
-import Logo from '../../../public/images/logos/STACKED-MG-logo-1c-WHITE_FINAL_For-Web.PNG'
 
 const Footer = () => {
   return (
@@ -14,7 +13,7 @@ const Footer = () => {
             <div className="col-lg-12 col-md-12">
               <h4>
                 <Link href="/">
-                  <Image src={Logo} alt="logo" width={90} height={30} />
+                  <Image src='/images/logos/STACKED-MG-logo-1c-WHITE_FINAL_For-Web.png' alt="logo" width={90} height={30} />
                 </Link>
               </h4>
 
