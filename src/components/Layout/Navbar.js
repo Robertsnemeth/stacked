@@ -62,7 +62,7 @@ const Navbar = () => {
       <nav id="navbar" className="navbar navbar-expand-md navbar-light bg-light header-sticky">
         <div className="container">
           <Link href="/" className="navbar-brand">
-            <Image src='/images/STACKED-logo-1c-PINK_FINAL_For-Web.png' alt="logo" width={150} height={50} />
+            <Image src='images/STACKED-logo-1c-PINK_FINAL_For-Web.png' alt="logo" width={150} height={50} />
           </Link>
 
           <button
